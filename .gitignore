@@ -82,7 +82,7 @@ $RECYCLE.BIN/
 
 
 ### Custom ###
-dist/
+#dist/
 .idea/compiler.xml
 .idea/favicons.iml
 .idea/misc.xml
