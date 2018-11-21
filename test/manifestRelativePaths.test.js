@@ -8,7 +8,7 @@ test("should images without options.path to manifests when manifestRelativePaths
 
   const result = await favicons(logo_png, {
     manifestRelativePaths: true,
-    path: 'favicons/',
+    path: "favicons/",
     icons: {
       android: true,
       firefox: true,
